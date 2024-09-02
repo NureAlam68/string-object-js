@@ -11,6 +11,14 @@ let last = 'Alam';
 
 // for concat
 
-let fullName = first.concat(' ').concat(last);
+// let fullName = first.concat(' ').concat(last);
 
-console.log(fullName);
+// console.log(fullName);
+
+
+
+// includes kono borno khojte
+
+let name = 'Sohag';
+
+console.log(name.includes('x'));
