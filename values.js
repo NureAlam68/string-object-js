@@ -1,4 +1,4 @@
-// property or keys array hoye print
+// value array hoye print
 
 let computer = {
     brand: 'Hp',
@@ -8,6 +8,6 @@ let computer = {
     monitor: 'Hp',
 }
 
-let keys = Object.keys(computer);
+let keys = Object.values(computer);
 
 console.log(keys);
