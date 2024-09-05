@@ -9,6 +9,6 @@ let myString = "An apple a day keeps the doctor away";
 // myString = myString.toLowerCase();
 
 // Count the occurrences of 'a'
-let count = myString.split('a').length - 1;
+let count = myString.split('a').length-1;
 
 console.log('string has the letter a:', count);  
